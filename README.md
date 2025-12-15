@@ -1,4 +1,4 @@
-# Retail Bank Deposit Behavior & Campaign Analysis (SQL)
+# Retail Banking Deposit Behavior & Campaign Analysis (SQL)
 # I. Project Information
 ## 1. Overview
 - This project explores a ***Bank Marketing Dataset*** to uncover insights into customer behavior and marketing campaign performance.
